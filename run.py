@@ -10,4 +10,4 @@ app.merge(DemoRoutes)
 app.config.load_config('config/settings.ini')
 
 
-bottle.run()
+bottle.run(reloader=True)
