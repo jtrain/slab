@@ -34,3 +34,7 @@ expect to get away with it. While you could send an electron app to that same pe
 #### Django
 Well, you could do this same thing with Django. slab apps only require bottle. bottle is a single file, and you can
 easily zip up and send the app to someone.
+
+### where was this made with love?
+Oh you ran the app and it didn't say "made with 💗" anywhere on it?
+I didn't make it with any 💗, but I'm willing to accept PRs from people who do have 💗 to give to this project.
