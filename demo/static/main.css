@@ -1,0 +1,71 @@
+.home-menu {
+  background-color: #2d3e50;
+}
+.home-menu .pure-menu-heading {
+  color: white;
+}
+.home-menu ul {
+  float: right;
+}
+.home-menu .pure-menu-selected a.pure-menu-link {
+  color: white;
+}
+.home-menu li a:hover {
+  background: none;
+  border: none;
+  color: #aecfe5;
+}
+.splash-container {
+  background: #1f8dd6;
+  z-index: 1;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  position: fixed !important;
+}
+.splash {
+  width: 60%;
+  height: 50%;
+  margin: auto;
+  position: absolute;
+  top: 100px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.splash-head {
+  font-size: 300%;
+  font-weight: bold;
+  color: white;
+  border: 3px solid white;
+  padding: 1em 1.6em;
+  font-weight: 100;
+  border-radius: 5px;
+  line-height: 1em;
+}
+.splash-sub {
+  color: white;
+  opacity: 0.8;
+}
+
+#notifications .alert {
+  display: fixed;
+  top: 30px;
+  left: 0px;
+  width: 100%;
+  height: 30px;
+  background: #df2d4f;
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  z-index: 100;
+  position: fixed;
+  display: block;
+  height: 50px;
+  padding-left: 20px;
+}
