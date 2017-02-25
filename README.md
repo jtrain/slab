@@ -37,4 +37,4 @@ easily zip up and send the app to someone.
 
 ### where was this made with love?
 Oh you ran the app and it didn't say "made with 💗" anywhere on it?
-I didn't make it with any 💗, but I'm willing to accept PRs from people who do have 💗 to give to this project.
+I didn't make it with any love, but I'm willing to accept PRs from people who do have love to give to this project.
